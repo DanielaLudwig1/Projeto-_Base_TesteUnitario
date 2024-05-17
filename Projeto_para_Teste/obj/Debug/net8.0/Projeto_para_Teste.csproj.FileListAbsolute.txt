@@ -1,0 +1,11 @@
+C:\Users\danie\source\repos\Projeto_para_Teste\Projeto_para_Teste\bin\Debug\net8.0\Projeto_para_Teste.deps.json
+C:\Users\danie\source\repos\Projeto_para_Teste\Projeto_para_Teste\bin\Debug\net8.0\Projeto_para_Teste.dll
+C:\Users\danie\source\repos\Projeto_para_Teste\Projeto_para_Teste\bin\Debug\net8.0\Projeto_para_Teste.pdb
+C:\Users\danie\source\repos\Projeto_para_Teste\Projeto_para_Teste\obj\Debug\net8.0\Projeto_para_Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Projeto_para_Teste\Projeto_para_Teste\obj\Debug\net8.0\Projeto_para_Teste.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Projeto_para_Teste\Projeto_para_Teste\obj\Debug\net8.0\Projeto_para_Teste.AssemblyInfo.cs
+C:\Users\danie\source\repos\Projeto_para_Teste\Projeto_para_Teste\obj\Debug\net8.0\Projeto_para_Teste.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Projeto_para_Teste\Projeto_para_Teste\obj\Debug\net8.0\Projeto_para_Teste.dll
+C:\Users\danie\source\repos\Projeto_para_Teste\Projeto_para_Teste\obj\Debug\net8.0\refint\Projeto_para_Teste.dll
+C:\Users\danie\source\repos\Projeto_para_Teste\Projeto_para_Teste\obj\Debug\net8.0\Projeto_para_Teste.pdb
+C:\Users\danie\source\repos\Projeto_para_Teste\Projeto_para_Teste\obj\Debug\net8.0\ref\Projeto_para_Teste.dll
